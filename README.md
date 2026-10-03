@@ -1,4 +1,4 @@
-<a href="https://morph.nuez.no"><img src="assets/life.svg" width="100%" alt="Conway's Game of Life: gliders crossing a field of still lifes"></a>
+<a href="https://morph.nuez.no"><img src="assets/life.svg" width="100%" alt="Conway's Game of Life: a Gosper glider gun firing gliders into an eater"></a>
 
 **[bleeploop](https://github.com/ikkeseb/bleeploop)** · desktop looper for guitar and MIDI<br>
 **[brreg-snap](https://github.com/ikkeseb/brreg-snap)** · Norwegian company registry, one click<br>
